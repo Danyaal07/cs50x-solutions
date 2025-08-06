@@ -1,16 +1,21 @@
-# Credit Card Validator (CS50 Week 1: C)
+# CS50x Solutions and Projects
 
-This project validates credit card numbers using Luhn's Algorithm, implemented in C.
-It identifies card types (AMEX, MASTERCARD, VISA) based on the number's length and prefix.
+This repository contains my completed problem sets and projects from Harvard's CS50x: Introduction to Computer Science course.
 
-- Fully written in C
-- Manual digit processing -- no arrays or strings
-- Passed CS50's 'check50' and 'style50'
+## What's Inside
 
-# Change Calculator (CS50 Week 1: C)
+- Problem sets covering foundational programming in C and Python
+- Key algorithms and data structures implementations
+- Web programming basics: HTML, CSS, JavaScript
+- Final projects demonstrating practical skills
 
-Implements a greedy algorithm to calculate the minimum number of coins needed for a given amount of change
+## Why This Repo
 
-- Fully written in C
-- Uses only integer math
-- Clean, testable, and GitHub-ready
+CS50x helped me build strong coding fundamentals, problem solving skills, and exposure to real-world programming
+
+## Getting Started 
+
+To explore the code, clone the repo:
+
+'''bash
+git clone https://github.com/Danyaal07/cs50x-solutions.git
